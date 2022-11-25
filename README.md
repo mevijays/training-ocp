@@ -2,7 +2,7 @@
 
 ## Exercises
 
-
+* [Docker](docker.md)
 * [Prerequisites](docs/01-prerequisites.md)
 * [Installing the Cluster](docs/02-install.md)
 * [Exploring the Cluster](docs/03-explore.md)
